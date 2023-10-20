@@ -1,3 +1,4 @@
 # ignore these
 /log*
 *splf*
+*.json
